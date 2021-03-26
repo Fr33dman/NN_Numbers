@@ -1,0 +1,6 @@
+venv/
+test.py
+cache.txt
+train/
+.idea/
+__pycache__/
